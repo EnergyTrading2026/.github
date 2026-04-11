@@ -7,4 +7,4 @@ Please read the [contribution guidelines](https://github.com/EnergyTrading2026/.
 
 Take a look at our [project](https://github.com/orgs/EnergyTrading2026/projects/1/views/1)!
 
-Start or join a [discussion}(https://github.com/orgs/EnergyTrading2026/discussions) if you want to!
+Start or join a [discussion](https://github.com/orgs/EnergyTrading2026/discussions) if you want to!
