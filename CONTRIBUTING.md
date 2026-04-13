@@ -8,14 +8,19 @@ This file contains the guidelines for our project. Please read the full document
 
 ## Table of contents
 
-- [Basics](#basics)
-- [Team](#team)
-- [Repositories](#repositories)
-- [Issues](#issues)
-- [Branching](#branching)
-- [Commits](#commits)
-- [Pull Requests](#pull-requests)
-- [Code Reviews](#code-reviews)
+- [Contributing Guidelines](#contributing-guidelines)
+  - [Table of contents](#table-of-contents)
+  - [Basics](#basics)
+  - [Team](#team)
+  - [Repositories](#repositories)
+  - [Issues](#issues)
+  - [Branching](#branching)
+    - [Convention for branch names](#convention-for-branch-names)
+  - [Commits](#commits)
+    - [Linear commit history and rebasing](#linear-commit-history-and-rebasing)
+  - [Pull Requests](#pull-requests)
+      - ["Squash and merge", "rebase and merge" or "merge commit"?](#squash-and-merge-rebase-and-merge-or-merge-commit)
+  - [Code Reviews](#code-reviews)
 
 ---
 
@@ -27,7 +32,7 @@ Always be respectful. The goal is to create the best product together.
 
 ## Team
 
-We use **scrum** for our project management. For more information about scrum please see the [presentation from Marius]()
+We use **scrum** for our project management. For more information about scrum please see the [presentation from Marius](/docs/presentations/Projectmanagement%20by%20Marius%20Martin.pdf)
 
 | Role | Person |
 |---|---|
@@ -171,4 +176,4 @@ On behalf of the Team
 
 Tamaro Walter
 
-*Last update: 10.04.2026*
+*Last update: 12.04.2026*
