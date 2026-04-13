@@ -32,7 +32,7 @@ Always be respectful. The goal is to create the best product together.
 
 ## Team
 
-We use **scrum** for our project management. For more information about scrum please see the [presentation from Marius](/blob/presentations/Projectmanagement%20by%20Marius%20Martin.pdf)
+We use **scrum** for our project management. For more information about scrum please see the [presentation from Marius](/docs/presentations/Projectmanagement%20by%20Marius%20Martin.pdf)
 
 | Role | Person |
 |---|---|
